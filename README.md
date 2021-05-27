@@ -1,5 +1,5 @@
 # Module 11 Challenge: UFO Analysis
-Cowabunga dude! This is my repository for analyzing weather data in Hawaii
+We come in peace! This is my repository for analyzing weather data in Hawaii
 
 
 1. Overview of the analysis:
@@ -16,6 +16,10 @@ The summary addresses two additional recommendations for further development (4 
 
 
 ## Project Overview
+The purpose of this project was to provide an analysis of UFO sightings across the world by allowing users to filter through UFO sighting data by date, city, state, country and shape.
+
+
+
 In this module I conducted an analysis of weather data for a surf & ice cream shop called "Surf n' Shake". The purpose of this project is to run analytics on weather temperatures in June and December to determine whether Surf n' Shake will have good weather conditions to operate in Oahu.
 
 For my analysis I used a variety of tools to perform advaned data storage and retrieval actions, including: 
@@ -26,6 +30,19 @@ For my analysis I used a variety of tools to perform advaned data storage and re
 
 
 ## Results
+When you first open the webpage, the search criteria is blank allowing you to see all of the UFO sighting data listed. On the left of the page, you will see filter search, with 5 different search catergories:
+- Enter a Date
+- Enter a City
+- Enter a State
+- Enter a Country
+- Enter a Shape
+
+Each catergory has an example of the criteria it is looking for. When you enter a certain criteria into one of the catergories and press the enter key, the table will adjust to show you the results for the criteria you entered. For example, if we add "el cajon" into our search, 5 results will appear when I press enter. 
+
+
+
+
+
 Below is a summary of June's tempature statistics
 
 ![June_Temps](https://user-images.githubusercontent.com/75700317/118911505-4723ed80-b8f4-11eb-9ecd-077062801702.png)
@@ -38,6 +55,14 @@ Below is a summary of December's temperature statistics
 
 
 ## Summary
+One drawback of this design is that the search criteria must match exactly to the data. For example, when the search criteria "ca" is entered there are many results, but if "CA" is entered, then no results populate. It also may be a good idea to add examples or a key of shape examples, as this criteria is not as clear as a date, city or state. 
+
+Two recommendations I would make for further development would be:
+1) All of the sightings in our data are from the US, so I would remove that search criteria and replace it with duration. People interested in UFO sightings would probably like to see if the durations in certain areas are similar to one another, and how the duration in one location or on a specific date vary from other locations and dates. 
+2) Another development I would look into, is making the text entered different than the example text. This way you still have the example text if you would like to enter another search criteria, but you still identify the criteria you have already entered. Currently all the text looks the same when entered, so it can be difficult to know what the results are filtered on.
+
+
+
 The average temperatures between December and June differ by only 4 degrees (75 degrees in June and 71 in December). There is very little fluctuation between the two which leads me to believe that both months are safe to run the shop. In summary, the weather in December and June exhibit similar behavior - the high points in December are relatively close to the weather experienced in June but the low points are significantly lower in December. 
 
 ## Additional Queries 
