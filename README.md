@@ -23,12 +23,13 @@ With Java Script I was able to build a table where users can filter the UFO sigh
 ## Results
 The websites landing page has 3 main attributes:
 
- - Dana's article 
+ - Dana's UFO article 
  - The complete unfiltered data
  - The filter Search box consisting of Date, City, State, Country filter options 
 
 Each filter option contains a "placeholder" or example criteria so the user knows the purpose and functionality of each filter. When you enter criteria into the filters and hit enter, the table adjusts for the search results. 
 
+# Filter Examples:
 A user can enter one search item as seen below:
 
 
