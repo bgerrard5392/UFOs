@@ -29,7 +29,7 @@ The websites landing page has 3 main attributes:
 
 Each filter option contains a "placeholder" or example criteria so the user knows the purpose and functionality of each filter. When you enter criteria into the filters and hit enter, the table adjusts for the search results. 
 
-# Filter Examples:
+### Filter Examples:
 A user can enter one search item as seen below:
 
 
