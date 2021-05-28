@@ -18,6 +18,8 @@ The summary addresses two additional recommendations for further development (4 
 ## Project Overview
 The purpose of this project was to provide an analysis of UFO sightings across the world by allowing users to filter through UFO sighting data by date, city, state, country and shape.
 
+I used Javascript to display data as a table, manipulate the data by adding filters, then post information online in an HTML page where I'll display my article, table of data, and filters 
+
 
 
 In this module I conducted an analysis of weather data for a surf & ice cream shop called "Surf n' Shake". The purpose of this project is to run analytics on weather temperatures in June and December to determine whether Surf n' Shake will have good weather conditions to operate in Oahu.
