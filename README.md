@@ -32,6 +32,9 @@ Each filter option contains a "placeholder" or example criteria so the user know
 ### Filter Examples:
 A user can enter one search item as seen below:
 
+![ny_filter](https://user-images.githubusercontent.com/75700317/120046190-a8784a80-bfdf-11eb-9c34-7d22811946f1.png)
+
+
 
 Each catergory has an example of the criteria it is looking for. When you enter a certain criteria into one of the catergories and press the enter key, the table will adjust to show you the results for the criteria you entered. For example, if we add "el cajon" into our search, 5 results will appear when I press enter. 
 
