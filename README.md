@@ -30,7 +30,8 @@ The websites landing page has 3 main attributes:
 Each filter option contains a "placeholder" or example criteria so the user knows the purpose and functionality of each filter. When you enter criteria into the filters and hit enter, the table adjusts for the search results. I've included examples below on how to operate the filter.
 
 ### Filter Examples:
-<u>UFO Sightings in New York<u>
+**UFO Sightings in New York**
+ 
 Let's say a user is looking for UFO sightings in New York, they can simply type "ny" in the state filter, press enter, then the table updates so it displays all UFO sightings that took place in ny (see below).
 
 ![ny_filter](https://user-images.githubusercontent.com/75700317/120046190-a8784a80-bfdf-11eb-9c34-7d22811946f1.png)
