@@ -1,6 +1,5 @@
 # Module 11 Challenge: UFO Analysis
-We come in peace! This is my repository for analyzing weather data in Hawaii
-
+We come in peace! This is module on UFO sightings.
 
 1. Overview of the analysis:
 
@@ -16,19 +15,9 @@ The summary addresses two additional recommendations for further development (4 
 
 
 ## Project Overview
-The purpose of this project was to provide an analysis of UFO sightings across the world by allowing users to filter through UFO sighting data by date, city, state, country and shape.
+In this module I created a web page for a Data Journalist named Dana using JavaScript's visual functionality to provided a dynamic analysis on UFO sightings around the world. 
 
-I used Javascript to display data as a table, manipulate the data by adding filters, then post information online in an HTML page where I'll display my article, table of data, and filters 
-
-
-
-In this module I conducted an analysis of weather data for a surf & ice cream shop called "Surf n' Shake". The purpose of this project is to run analytics on weather temperatures in June and December to determine whether Surf n' Shake will have good weather conditions to operate in Oahu.
-
-For my analysis I used a variety of tools to perform advaned data storage and retrieval actions, including: 
-
- - Flask - a web framework that uses Python to build web pages 
- - SQLite -  a database engine embedded into the end program 
- - SQL Alchemy - a query tool for performing integration of statistical analysis with dataframe analysis
+With Java Script I was able to build a table where users can filter the UFO sightings data by date, city, state, country and type of sigthting. From there I created an HTML page where I display Dana's article on UFO sightings as well as the table with the easy to use filter.  
 
 
 ## Results
