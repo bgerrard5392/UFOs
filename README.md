@@ -21,12 +21,16 @@ With Java Script I was able to build a table where users can filter the UFO sigh
 
 
 ## Results
-When you first open the webpage, the search criteria is blank allowing you to see all of the UFO sighting data listed. On the left of the page, you will see filter search, with 5 different search catergories:
-- Enter a Date
-- Enter a City
-- Enter a State
-- Enter a Country
-- Enter a Shape
+The websites landing page has 3 main attributes:
+
+ - Dana's article 
+ - The complete unfiltered data
+ - The filter Search box consisting of Date, City, State, Country filter options 
+
+Each filter option contains a "placeholder" or example criteria so the user knows the purpose and functionality of each filter. When you enter criteria into the filters and hit enter, the table adjusts for the search results. 
+
+A user can enter one search item as seen below:
+
 
 Each catergory has an example of the criteria it is looking for. When you enter a certain criteria into one of the catergories and press the enter key, the table will adjust to show you the results for the criteria you entered. For example, if we add "el cajon" into our search, 5 results will appear when I press enter. 
 
